@@ -52,4 +52,3 @@ I'm currently focused on improving as a backend developer by building more compl
 
 - [LinkedIn](www.linkedin.com/in/máximo-ale-3732b7378)
 - [Email](mailto:maximoale20000@gmail.com)
-- [GitHub](https://github.com/maximo-ale)
